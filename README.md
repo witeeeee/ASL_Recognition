@@ -1,0 +1,3 @@
+# ASL_Recognition
+
+This project aims to develop and implement sign language recognition program to recognise and classify hand gestures for easier translation and provide a medium of understanding between the speech or hearing impaired and the rest of the population. For the project we developed a model using machine learning techniques like Convolutional Neural Network (CNN) and to analyse a dataset of images of sign language gestures belonging to the American Sign Language, and accurately recognize the English alphabet that corresponds to each gesture. The project also compares various existing transfer learning models such as ResNet and MobileNet with the results with the custom developed CNN model.
